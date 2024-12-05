@@ -1,5 +1,6 @@
-asdasdasdasdasdad
-akdfnjksdfjkbaksjdjkasdnkjdn
-asdasasfasfasffasfsfdfqweqweqwezxczxczxczxc
-asdasdaqweqweqweqwe
-l;mfljaelfl;aejflksajel;jasldjlaskdjgkl;ajsdgkj
+git init
+git add .
+git -m "your commit"
+git remote add origin https://github.com/AhmedShawkyDev/githubsave.git
+git branch -M "اسم البرانش"
+git push -u origin اسم البرانش
